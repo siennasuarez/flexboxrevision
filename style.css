@@ -1,0 +1,80 @@
+body {
+    font-family: sans-serif;
+    background-color: #FFC0CB;
+    color: #white;
+    text-align: center;
+}
+
+#homeBody{
+    background-image: url('https://www.aljazeera.com/wp-content/uploads/2022/05/AP22124019197982.jpg?resize=1170%2C780&quality=80');
+    background-size: cover
+    background-position: center; 
+    color: white;
+}
+
+#backieee{
+    display: flex;
+    color: white;
+    background-color: #FFC0CB;
+
+}
+.navTabs {
+    display: flex;
+    justify-content: space-around;
+    background-color: #DB7093; 
+    padding:10px ;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    font-size:24px;
+    color: white;
+    background-color: #FF69B4;
+}
+
+.mainContainer {
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+    padding: 20px;
+    gap:20px; 
+}
+
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding:20px;
+    background-color: #FF69B4; 
+}
+
+.emphasis {
+    color: #black; 
+    font-size:60pt;
+}
+
+.header{
+    font-size:40pt;
+}
+
+.otherTwo{
+   display: flex;
+justify-content: space-around;
+background-color: #DB7093; 
+   padding:10px ;
+   flex-wrap: wrap
+}
+
+.fyepic {
+    align-self: center;
+padding:10px ;
+    display: flex;
+    justify-content: space-around;
+    background-color: #DB7093; 
+   
+}
+
